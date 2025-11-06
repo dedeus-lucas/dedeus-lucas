@@ -15,9 +15,9 @@ Pesquisador independente em psicanálise, ética aplicada e inteligência artifi
 ---
 
 <div align="center">
-  <a href="https://github.com/lucas-dracodev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas-dracodev&show_icons=true&theme=gruvbox&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-dracodev&layout=compact&langs_count=7&theme=gruvbox"/>
+  <a href="https://github.com/dedeus-lucas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dedeus-lucas&show_icons=true&theme=gruvbox&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedeus-lucas&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
 
 ---
@@ -40,7 +40,7 @@ Pesquisador independente em psicanálise, ética aplicada e inteligência artifi
   <a href="https://www.linkedin.com/in/dedeus-lucas/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://github.com/lucas-dracodev" target="_blank">
+  <a href="https://github.com/dedeus-lucas" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="https://x.com/lucas_dracodev" target="_blank">
