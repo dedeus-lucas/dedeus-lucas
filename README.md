@@ -59,7 +59,7 @@ Pesquisador independente em psicanálise, ética aplicada e inteligência artifi
   <a href="https://github.com/dedeus-lucas" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://bsky.app/profile/lucas-dracodev.bsky.social" target="_blank">
+  <a href="https://bsky.app/profile/dedeus-lucas.bsky.social" target="_blank">
     <img src="https://img.shields.io/badge/-BlueSky-0285FF?style=for-the-badge&logo=bsky&logoColor=white">
   </a>
   <a href="https://wa.me/+5573981230728" target="_blank">
