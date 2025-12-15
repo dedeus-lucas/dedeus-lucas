@@ -12,21 +12,28 @@ Pesquisador independente em psicanálise, ética aplicada e inteligência artifi
 - 📚 Bacharelando em Ciência da Computação — Descomplica Uniamérica (Centro Universitário União das Américas)  
 - 🖥️ Graduando em Análise e Desenvolvimento de Sistemas — UESB (Universidade Estadual do Sudoeste da Bahia)   
 
+---
+
 <div align="center">
 
   <!-- GitHub stats lado a lado usando table -->
-  <table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
-  <tr>
-    <td style="border: none; padding: 0;">
-      <img height="180em"
-        src="https://github-readme-stats-fast.vercel.app/api?username=dedeus-lucas&hide=contribs,prs&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=0d1117" />
-    </td>
-    <td style="border: none; padding: 0;">
-      <img height="180em"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedeus-lucas&layout=compact&langs_count=7&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=0d1117" />
-    </td>
-  </tr>
-</table>
+  <p>
+    <picture>
+      <source
+        srcset="https://github-readme-stats-fast.vercel.app/api?username=dedeus-lucas&show_icons=true&theme=tokyonight"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats-fast.vercel.app/api?username=dedeus-lucas&show_icons=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=dedeus-lucas&show_icons=true" />
+    </picture>
+    <img height="180em"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedeus-lucas&layout=compact&langs_count=7&theme=tokyonight" />
+  </p>
+
+---
 
 </div>
 
