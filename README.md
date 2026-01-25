@@ -1,8 +1,8 @@
-<h1 align="center">Olá, sou Lucas S. de Deus (Dr@c0) 👨‍💻 | Desenvolvedor e Pesquisador (curioso)</h1>
+<h1 align="center">Olá, sou Lucas S. de Deus (Dr@c0) 👨‍💻 | Desenvolvedor JavaScript & Java</h1>
   
 <p align="center">
-  🧠 Interesse nas interseções entre linguagem, tecnologia e seres humanos.
-Pesquisador independente em psicanálise, ética aplicada e inteligência artificial.
+  🧠 Interesse nas interseções entre pensamento, tecnologia e o futuro da humanidade com IA + Computação Quântica + Cibersegurança.
+Pesquisador independente em Psicanálise, Inteligência Artificial, Criptografia Pós-Quântica e Cibersergurança com foco em AppSec e DevSecOps.
 </p>
 
 ---
@@ -10,13 +10,13 @@ Pesquisador independente em psicanálise, ética aplicada e inteligência artifi
 🎓 **Formação acadêmica**
 
 - 📚 Bacharelando em Ciência da Computação — Descomplica Uniamérica (Centro Universitário União das Américas)  
-- 🖥️ Graduando em Análise e Desenvolvimento de Sistemas — UESB (Universidade Estadual do Sudoeste da Bahia)   
+- 🖥️ Graduando em Análise e Desenvolvimento de Sistemas — UESB (Universidade Estadual do Sudoeste da Bahia)  
+- 🧠 Estudante do curso de Psicanálise — ABRAFP - Associação Brasileira de Filosofia e Psicanálise
 
 ---
 
 <div align="center">
-
-  <!-- GitHub stats lado a lado usando table -->
+  <!-- GitHub stats -->
   <p>
     <picture>
       <source
@@ -32,23 +32,15 @@ Pesquisador independente em psicanálise, ética aplicada e inteligência artifi
     <img height="180em"
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedeus-lucas&layout=compact&langs_count=7&theme=tokyonight" />
   </p>
+</div>
 
 ---
 
-</div>
-
 <h3 align="center">💡 Interesses em destaque:</h3>
 <div align="center" valign="top"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-  <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="AWS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
-  <img align="center" alt="googlecloud" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg">
-  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <p>
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,java,spring,c,python,aws,gcp,linux,git,github" />
+  </p>
 </div><br><br>
 
 <div align="center">
@@ -77,5 +69,5 @@ Pesquisador independente em psicanálise, ética aplicada e inteligência artifi
 </div>
 
 <div align="center">
-  <p>baseado no modelo original feito por: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
+  <p>baseado em modelos diversos</p>
 </div>
