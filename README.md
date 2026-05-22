@@ -1,17 +1,40 @@
-<h1 align="center">Olá, sou Lucas S. de Deus (Dr@c0) 👨‍💻 | Desenvolvedor JavaScript & Java</h1>
-  
-<p align="center">
-  🧠 Interesse nas interseções entre pensamento, tecnologia e o futuro da humanidade com IA + Computação Quântica + Cibersegurança.
-Pesquisador independente em Psicanálise, Inteligência Artificial, Criptografia Pós-Quântica e Cibersergurança com foco em AppSec e DevSecOps.
-</p>
+<h1 align="center">Olá, sou Lucas S. de Deus (DR4CO) 👨‍💻 | Desenvolvedor Java + Spring & Python</h1>
+
+Backend Developer em formação com foco em Java, segurança e arquitetura de sistemas.
+
+**Áreas de estudo:**
+
+- Backend com Java e Spring
+- Automações em Python
+- Segurança de APIs
+- Identity and Access Management (IAM)
+- Cloud Security
+- Secure System Design
+- DevSecOps
+- Arquitetura de Software
 
 ---
 
 🎓 **Formação acadêmica**
 
-- 📚 Bacharelando em Ciência da Computação — Descomplica Uniamérica (Centro Universitário União das Américas)  
-- 🖥️ Graduando em Análise e Desenvolvimento de Sistemas — UESB (Universidade Estadual do Sudoeste da Bahia)  
-- 🧠 Estudante do curso de Psicanálise — ABRAFP - Associação Brasileira de Filosofia e Psicanálise
+- Bacharelado em Ciência da Computação - Descomplica Uniamérica  
+- Tecnólogo em Análise e Desenvolvimento de Sistemas - UESB
+
+🧠 **Formação complementar**
+
+- Estudos em Psicanálise - ABRAFP
+
+---
+
+**Projetos:**
+
+- Shield Protocol
+- Portfólio institucional
+- Estudos em segurança e arquitetura
+- Sistemas escaláveis orientados a SaaS
+
+**Portfolio:**
+https://dedeus-lucas.github.io/shield-protocol-portfolio/
 
 ---
 
@@ -29,8 +52,6 @@ Pesquisador independente em Psicanálise, Inteligência Artificial, Criptografia
       />
       <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=dedeus-lucas&show_icons=true" />
     </picture>
-    <img height="180em"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedeus-lucas&layout=compact&langs_count=7&theme=tokyonight" />
   </p>
 </div>
 
@@ -39,7 +60,7 @@ Pesquisador independente em Psicanálise, Inteligência Artificial, Criptografia
 <h3 align="center">💡 Interesses em destaque:</h3>
 <div align="center" valign="top"><br>
   <p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,java,spring,c,python,aws,gcp,linux,git,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,java,spring,python,aws,gcp,linux,git,github,gitlab" />
   </p>
 </div><br><br>
 
