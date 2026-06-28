@@ -60,7 +60,7 @@ https://dedeus-lucas.github.io/shield-protocol-portfolio/
 <h3 align="center">💡 Interesses em destaque:</h3>
 <div align="center" valign="top"><br>
   <p>
-    <img src="https://skillicons.dev/icons?i=java,spring,javascript,node,python,aws,gcp,linux,git,github,gitlab" />
+    <img src="https://skillicons.dev/icons?i=java,spring,javascript,nodejs,python,postgresql,mysql,aws,gcp,linux,git,github,gitlab" />
   </p>
 </div><br><br>
 
