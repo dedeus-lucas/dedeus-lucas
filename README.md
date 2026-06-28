@@ -1,4 +1,4 @@
-<h1 align="center">Olá, sou Lucas S. de Deus (DR4CO) 👨‍💻 | Desenvolvedor Java + Spring & Python</h1>
+<h1 align="center">Olá, sou Lucas S. de Deus (DR4CO) 👨‍💻 | Desenvolvedor Backend Java + Spring & JavaScript (Node.js) & Python</h1>
 
 Backend Developer em formação com foco em Java, segurança e arquitetura de sistemas.
 
@@ -60,7 +60,7 @@ https://dedeus-lucas.github.io/shield-protocol-portfolio/
 <h3 align="center">💡 Interesses em destaque:</h3>
 <div align="center" valign="top"><br>
   <p>
-    <img src="https://skillicons.dev/icons?i=html,css,java,spring,python,aws,gcp,linux,git,github,gitlab" />
+    <img src="https://skillicons.dev/icons?i=java,spring,javascript,node,python,aws,gcp,linux,git,github,gitlab" />
   </p>
 </div><br><br>
 
